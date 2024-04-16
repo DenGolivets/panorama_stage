@@ -27,7 +27,7 @@ const Hero = () => {
                             Welcome to Panorama <span>Restaraunt</span>
                         </h1>
                         <h2>
-                        Serving Scenic Delights: Panorama's Journey of taste, unfolding since 1970
+                        Serving Scenic Delights: Panorama&apos;s Journey of taste, unfolding since 1970
                         </h2>
                         <div className='btns'>
                             <HeroBtn name='our menu' target='menu' />

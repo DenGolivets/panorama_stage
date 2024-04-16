@@ -38,7 +38,7 @@ const About = () => {
                         </ul>
                         <p>
                             Every anniversary marked a new chapter, with the restaurant evolving its menu to reflect the changing seasons and emerging culinary trends. 
-                            As years passed, Panorama continued to evolve while staying true to its core values. It became not just a dining destination but a cultural icon, a place where special moments unfolded against the backdrop of a breathtaking panorama. And so, the legacy of Panorama endured – a culinary journey suspended in time, where each meal was a celebration of flavors and each visit a cherished memory etched against the canvas of the city's skyline.
+                            As years passed, Panorama continued to evolve while staying true to its core values. It became not just a dining destination but a cultural icon, a place where special moments unfolded against the backdrop of a breathtaking panorama. And so, the legacy of Panorama endured – a culinary journey suspended in time, where each meal was a celebration of flavors and each visit a cherished memory etched against the canvas of the city&apos;s skyline.
                         </p>
                     </div>
                 </div>
