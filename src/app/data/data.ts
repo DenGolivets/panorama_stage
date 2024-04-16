@@ -58,7 +58,7 @@ export const whyUs = [
     {
         id: 2,
         title: 'Captivating Cliffside Ambiance',
-        content: 'Nestled on the edge of a rugged cliff, Panorama provides more than just a meal – it offers an immersive journey. The breathtaking views, seamlessly blending with our contemporary ambiance, create an enchanting setting that elevates every visit to a memorable experience.',
+        content: 'Nestled on the edge of a rugged cliff, Panorama provides more than just a meal it offers an immersive journey. The breathtaking views, seamlessly blending with our contemporary ambiance, create an enchanting setting that elevates every visit to a memorable experience.',
     },
     {
         id: 3,
@@ -84,7 +84,7 @@ export const menu = [
         preview: '/assets/images/menu/CheeseRisolles.jpg',
         ingredients: 'pasta, butter, greenery, sauce"Barilla Napoletana", cheese mix, rissoles',
         category: 'specialty',
-        description: 'This towering golden cob is our ode to retro! Once you’ve devoured the parmigiana rissoles, you can scoop up spaghetti with the crunchy pull-apart garlic bread.',
+        description: 'This towering golden cob is our ode to retro! Once you devoured the parmigiana rissoles, you can scoop up spaghetti with the crunchy pull-apart garlic bread.',
     },
     {
         id: 3,
@@ -129,7 +129,7 @@ export const menu = [
         preview: '/assets/images/menu/fishtacos.jpg',
         ingredients: 'Australian barramundi, cajun, olive oil, jalapeño chillies, pineapple, lime, tortillas',
         category: 'starters',
-        description: 'Soft fish tacos have to be one of our favourite Mexican midweek meals. Not only are they quick and easy to prepare, but they’re family-friendly, too with everyone getting to pick their own toppings. For the best fish taco recipe, choose firm white fish fillets as they hold their shape and have a mild flavour, and opt for corn tortillas as they are more authentic to Mexican cuisine.',
+        description: 'Soft fish tacos have to be one of our favourite Mexican midweek meals. Not only are they quick and easy to prepare, but they are family-friendly, too with everyone getting to pick their own toppings. For the best fish taco recipe, choose firm white fish fillets as they hold their shape and have a mild flavour, and opt for corn tortillas as they are more authentic to Mexican cuisine.',
     },
     {
         id: 8,
@@ -138,7 +138,7 @@ export const menu = [
         preview: '/assets/images/menu/ketoswedishmeatballs.jpg',
         ingredients: 'beef mince, shallots, parsley, allspice, nutmeg, mustard, pouring cream, cauliflower, green beans',
         category: 'specialty',
-        description: 'These delicious keto Swedish meatballs are a perfect blend of ground beef, herbs, and spices, capturing the flavors of the classic recipe in a creamy low-carb sauce for a mouthwatering main dish. This recipe is inspired by IKEA’s famous meatball recipe.',
+        description: 'These delicious keto Swedish meatballs are a perfect blend of ground beef, herbs, and spices, capturing the flavors of the classic recipe in a creamy low-carb sauce for a mouthwatering main dish. This recipe is inspired by IKEAs famous meatball recipe.',
     },
     {
         id: 9,
