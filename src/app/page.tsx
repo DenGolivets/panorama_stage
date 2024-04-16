@@ -3,7 +3,6 @@ import Booking from "./sections/Booking";
 import Chefs from "./sections/Chefs";
 import Contact from "./sections/Contact";
 import Events from "./sections/Events";
-import Footer from "./sections/Footer";
 import Gallery from "./sections/Gallery";
 import Hero from "./sections/Hero";
 import Menu from "./sections/Menu";

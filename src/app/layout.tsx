@@ -1,6 +1,6 @@
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import 'bootstrap/dist/css/bootstrap.css';
-import 'glightbox/dist/css/glightbox.css';
+// import 'glightbox/dist/css/glightbox.css';
 
 import type { Metadata } from "next";
 import { Playfair_Display } from "next/font/google";

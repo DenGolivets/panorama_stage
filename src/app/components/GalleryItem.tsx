@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import Glightbox from 'glightbox';
+// import Glightbox from 'glightbox';
 import './galleryItem.css';
 import Image from 'next/image';
 
@@ -10,11 +10,11 @@ const GalleryItem = ({item}: {
   };
 }) => {
 
-  useEffect(() => {
-    new Glightbox({
-      selector: '.gallery-lightbox',
-    });
-  }, []);
+  // useEffect(() => {
+  //   new Glightbox({
+  //     selector: '.gallery-lightbox',
+  //   });
+  // }, []);
 
   return (
     <div className='col-lg-3 col-md-4'>
